@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hangman Application</string>
+    <string name="prompt_text">Enter Text Here</string>
+    <string name="button_text">Begin Game</string>
+    <string name="game_prompt_text">Please guess a character</string>
+    <string name="default_guess">A</string>
+    <string name="guess_button_text">Guess</string>
+    <string name="warning">Warning</string>
+</resources>
